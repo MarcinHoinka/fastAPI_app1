@@ -2,10 +2,8 @@
 
 ### Prerequisites
 
-To run app you need to install:  
-`pip3 install fastapi[all]`  
-`pip3 install "uvicorn[standard]"`
-
+Before you run the app:  
+`pip install -r requirements.txt`
 
 ### How to run
 
